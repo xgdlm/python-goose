@@ -1,4 +1,2 @@
-python-goose
-============
-
-Html Content / Article Extractor, web scrapping lib in Python
+Moved to :
+https://github.com/grangier/python-goose
