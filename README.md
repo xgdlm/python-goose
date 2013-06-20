@@ -1,2 +1,2 @@
-Moved to :
-https://github.com/grangier/python-goose
+Moved to https://github.com/grangier/python-goose
+=================================================
